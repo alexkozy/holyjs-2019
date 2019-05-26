@@ -1,0 +1,16 @@
+{
+  "name": "holyjs-2019-demo",
+  "version": "1.0.0",
+  "description": "Demo scripts for Holy.js 2019 talk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ak239spb@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "chrome-remote-interface": "^0.27.1",
+    "systeminformation": "^4.4.1"
+  }
+}
